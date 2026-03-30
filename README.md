@@ -51,7 +51,7 @@ Lowest: Aman - 45
 
 ---
 
-## 📝 Grade System
+##  Grade System
 
 | Marks Range | Grade |
 | ----------- | ----- |
